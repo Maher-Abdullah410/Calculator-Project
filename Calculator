@@ -1,5 +1,10 @@
 Console.WriteLine("Name:Maher Abdullah");
 Console.WriteLine("Roll no: 50);
+double num5 = Convert.ToInt32(Console.ReadLine());
+double mun6 = Convert.ToInt32(Console.ReadLine());
+double multiplication = num3 * num4;
+Console.WriteLIne($"Result: {multiplication}"); 
+ 
 double num7 = Convert.ToInt32(Console.ReadLine());
 double mun8 = Convert.ToInt32(Console.ReadLine());
 double division = num7 / num8;
