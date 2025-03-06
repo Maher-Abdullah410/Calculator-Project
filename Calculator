@@ -22,5 +22,11 @@ Console.WriteLIne($"Result: {division}");
 
 int result = num2-num3;
 
+int result= num6-num8;
+
+
+
+
+
 
 
