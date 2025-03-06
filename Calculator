@@ -1,2 +1,6 @@
 Console.WriteLine("Name:Maher Abdullah");
 Console.WriteLine("Roll no: 50);
+double num1 = Convert.ToInt32(Console.ReadLine());
+double mun2 = Convert.ToInt32(Console.ReadLine());
+double addition = num1 + num2;
+Console.WriteLIne($"Result: {addition}");
